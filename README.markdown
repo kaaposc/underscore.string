@@ -1,6 +1,7 @@
 # Underscore.string [![Build Status](https://secure.travis-ci.org/epeli/underscore.string.png?branch=master)](http://travis-ci.org/epeli/underscore.string) #
 
 
+.
 
 Javascript lacks complete string manipulation operations.
 This an attempt to fill that gap. List of build-in methods can be found
